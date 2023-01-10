@@ -7,7 +7,7 @@
 - 🌱 I’m versed in Javascript, HTML, CSS, PHP and SQL. I am currently learning Java.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, BackEnd Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtooluwaseyi.balogun@aol.com.
+- 📫 You can [view my resume](https://1drv.ms/b/s!AtbF9lIqG_-hhbRIcfHJ5fXcht9j7w?e=Rh6US0) and contact me by emailing mailtooluwaseyi.balogun@aol.com.
 
 ---
 
